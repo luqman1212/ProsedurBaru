@@ -5,4 +5,4 @@
 ![alt text](https://github.com/luqman1212/ProsedurBaru/blob/main/a5.jpg?raw=true)
 ![alt text](https://github.com/luqman1212/ProsedurBaru/blob/main/a6.jpg?raw=true)
 ![alt text](https://github.com/luqman1212/ProsedurBaru/blob/main/a7.jpg?raw=true)
-![alt text](https://github.com/luqman1212/ProsedurBaru/blob/main/one.gif?raw=true)
+![alt text](https://github.com/luqman1212/ProsedurBaru/blob/main/a8.gif?raw=true)
