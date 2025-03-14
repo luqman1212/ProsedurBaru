@@ -1,1 +1,8 @@
-# ProsedurBaru
+![alt text](https://github.com/luqman1212/ProsedurBaru/blob/main/Isi/a1.png?raw=true)
+![alt text](https://github.com/luqman1212/ProsedurBaru/blob/main/Isi/a2.png?raw=true)
+![alt text](https://github.com/luqman1212/ProsedurBaru/blob/main/Isi/a3.png?raw=true)
+![alt text](https://github.com/luqman1212/ProsedurBaru/blob/main/Isi/a4.png?raw=true)
+![alt text](https://github.com/luqman1212/ProsedurBaru/blob/main/Isi/a5.png?raw=true)
+![alt text](https://github.com/luqman1212/ProsedurBaru/blob/main/Isi/a6.png?raw=true)
+![alt text](https://github.com/luqman1212/ProsedurBaru/blob/main/Isi/a7.jpg?raw=true)
+![alt text](https://github.com/luqman1212/ProsedurBaru/blob/main/Isi/one.gif?raw=true)
